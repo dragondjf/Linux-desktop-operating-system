@@ -68,6 +68,11 @@
 	+ 窗口主题
 	+ 图标主题
 	+ 光标主题
+
++ 如何丰富Linux桌面应用
+	+ web app
+	+ andriod app
+	+ wine
 + Linux周边
 	+ Linux为什么不需要磁盘管理
 	+ Linux内存管理机制简介
