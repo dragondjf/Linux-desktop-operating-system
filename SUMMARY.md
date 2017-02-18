@@ -1,13 +1,12 @@
 ####图解Linux图形操作系统
 
 + 操作系统
-	+ PC操作系统
-		   + windows操作系统
-		   + Mac操作系统
-		   + Linux操作系统
-	 
-	+ Mobile操作系统
-		+ 什么iphone操作系统
+	+ 桌面端操作系统
+	   + windows操作系统
+	   + Mac操作系统
+	   + Linux操作系统
+	+ 移动端操作系统
+		+ iphone操作系统
 	    + andriod操作系统
 	    + windows phone操作系统
 
