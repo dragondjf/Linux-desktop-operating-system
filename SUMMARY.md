@@ -1,6 +1,6 @@
 ####图解Linux图形操作系统
 
-+ [操作系统](操作系统/操作系统.md)
++ [操作系统](articles/操作系统/操作系统.md)
 	+ 桌面端操作系统
 	   + windows操作系统
 	   + Mac操作系统
@@ -25,8 +25,8 @@
 	+ Linux图形系统启动流程
 	+ systemd
 + Linux文件系统结构
-	+ [Linux文件类型]( Linux文件系统结构/Linux文件类型.md)
-	+ [Linux文件系统结构]( Linux文件系统结构/Linux文件系统结构.md)
+	+ [Linux文件类型](articles/ Linux文件系统结构/Linux文件类型.md)
+	+ [Linux文件系统结构](articles/ Linux文件系统结构/Linux文件系统结构.md)
 + Linux下的显示服务器
 	+ X window
 	+ wayland
@@ -62,7 +62,7 @@
 		+ 计算机视图
 		+ 设备的挂载/卸载
 		+ 什么是FUSE
-		+ [什么是GVFS](图解Linux桌面基本组件/文件管理器/什么是GVFS.md)
+		+ [什么是GVFS](articles/图解Linux桌面基本组件/文件管理器/什么是GVFS.md)
 	+ 启动器
 	+ 控制中心
 	+ 终端
@@ -78,5 +78,5 @@
 	+ andriod app
 	+ wine
 + Linux周边
-	+ [Linux为什么不需要磁盘管理]( Linux周边/Linux为什么不需要磁盘管理.md)
-	+ [Linux内存管理机制简介]( Linux周边/Linux内存管理机制简介.md)
+	+ [Linux为什么不需要磁盘管理](articles/ Linux周边/Linux为什么不需要磁盘管理.md)
+	+ [Linux内存管理机制简介](articles/ Linux周边/Linux内存管理机制简介.md)
