@@ -78,5 +78,5 @@
 	+ andriod app
 	+ wine
 + Linux周边
-	+ [Linux为什么不需要磁盘管理](articles/Linux周边/Linux为什么不需要磁盘管理.md)
+	+ [Linux为什么不需要磁盘碎片整理](articles/Linux周边/Linux为什么不需要磁盘碎片整理.md)
 	+ [Linux内存管理机制简介](articles/Linux周边/Linux内存管理机制简介.md)
