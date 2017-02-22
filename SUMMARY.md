@@ -43,10 +43,16 @@
 + 软件包管理系统
 	+ dpkg
 	+ apt-get 
-+ 图解linux常用进程
++ 图解linux常用进程和服务
 	+ dbus
 	+ policykit
-
+	+ upower
+	+ udisk2
+	+ pulseaudio
+	+ network-manager
+	+ udev
+	+ bluez
+	+ PAM
 
 + 图解Linux桌面基本组件
 	+ 桌面
