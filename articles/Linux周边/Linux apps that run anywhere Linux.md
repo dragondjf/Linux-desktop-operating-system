@@ -47,7 +47,7 @@ Dirk Hohndel (英特尔开源技术总监) 评价："The AppImage approach is re
 
 ####6. AppImage架构示意图
 
-![AppImage](./images/AppImage.png)
+![AppImage](../../images/AppImage.png)
 
 
 
