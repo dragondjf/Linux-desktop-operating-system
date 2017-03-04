@@ -86,3 +86,4 @@
 + Linux周边
 	+ [Linux为什么不需要磁盘碎片整理](articles/Linux周边/Linux为什么不需要磁盘碎片整理.md)
 	+ [Linux内存管理机制简介](articles/Linux周边/Linux内存管理机制简介.md)
+	+ [Linux apps that run anywhere Linux](articles/Linux周边/Linux apps that run anywhere Linux.md)
